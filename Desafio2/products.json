@@ -1,0 +1,57 @@
+[
+	{
+		"id": 1,
+		"title": "Pc Gamer PRO",
+		"description": "Computadora de alta gama",
+		"price": 75000,
+		"thumbnail": [
+			"Imagen de computadora"
+		],
+		"code": "556BB",
+		"stock": 114
+	},
+    {
+		"id": 2,
+		"title": "Mouse Gamer",
+		"description": "Mouse 20.000 DPI",
+		"price": 5000,
+		"thumbnail": [
+			"Imagen de Raton"
+		],
+		"code": "565AA",
+		"stock": 10
+	},
+	{
+		"id": 3,
+		"title": "Monitor Gamer",
+		"description": "Monitor Full HD 175HZ",
+		"price": 60000,
+		"thumbnail": [
+			"Imagen de Monitor"
+		],
+		"code": "569AA",
+		"stock": 10
+	},
+	{
+		"id": 4,
+		"title": "Mouse Inalambrico",
+		"description": "Mouse inalambrico recargable",
+		"price": 3500,
+		"thumbnail": [
+			"Imagen de Mouse"
+		],
+		"code": "XXYD8",
+		"stock": 61
+	},
+	{
+		"id": 5,
+		"title": "Teclado Mecanico",
+		"description": "Teclado mecanico RGB",
+		"price": 13500,
+		"thumbnail": [
+			"Imagen de teclado1"
+		],
+		"code": "AABB6",
+		"stock": 156
+	}
+]
